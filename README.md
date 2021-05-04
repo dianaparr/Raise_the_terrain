@@ -13,7 +13,8 @@
 * You are allowed to use [all the functions provided by SDL2](https://wiki.libsdl.org/CategoryAPI)
 
 ## Tasks
-**0. Isometric projection: **
+**0. Isometric projection:**
+
 **Requirements**
 
 * Usage: terrain file
@@ -24,9 +25,9 @@
 * Your grid must be centered and takes as much space as possible on the screen. We should be able to see the whole screen.
 * Your program should end when the user is pressing the ESC key
 
-**1. Rotation: **
+**1. Rotation:**
 
 * Rotate the grid when the user is using left or right arrows
 * Please use the M_PI macro defined in math.h
 * Link with the gcc -m flag to be able to use the math library
-# Raise_the_terrain
+
